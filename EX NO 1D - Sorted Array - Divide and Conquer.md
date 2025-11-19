@@ -83,6 +83,7 @@ public class Solution {
 
 ## Output:
 
+<img width="921" height="346" alt="image" src="https://github.com/user-attachments/assets/b21b2907-c364-4f21-b45d-b01d5297f88a" />
 
 
 ## Result:
